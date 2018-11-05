@@ -1,0 +1,9 @@
+e:\users\gabel\documents\visual studio 2015\Projects\PrintConsoleGUI\PrintConsoleGUI\bin\Debug\PrintConsoleGUI.exe.config
+e:\users\gabel\documents\visual studio 2015\Projects\PrintConsoleGUI\PrintConsoleGUI\bin\Debug\PrintConsoleGUI.exe
+e:\users\gabel\documents\visual studio 2015\Projects\PrintConsoleGUI\PrintConsoleGUI\bin\Debug\PrintConsoleGUI.pdb
+e:\users\gabel\documents\visual studio 2015\Projects\PrintConsoleGUI\PrintConsoleGUI\obj\Debug\PrintConsoleGUI.csprojResolveAssemblyReference.cache
+e:\users\gabel\documents\visual studio 2015\Projects\PrintConsoleGUI\PrintConsoleGUI\obj\Debug\PrintConsoleGUI.Properties.Resources.resources
+e:\users\gabel\documents\visual studio 2015\Projects\PrintConsoleGUI\PrintConsoleGUI\obj\Debug\PrintConsoleGUI.csproj.GenerateResource.Cache
+e:\users\gabel\documents\visual studio 2015\Projects\PrintConsoleGUI\PrintConsoleGUI\obj\Debug\PrintConsoleGUI.exe
+e:\users\gabel\documents\visual studio 2015\Projects\PrintConsoleGUI\PrintConsoleGUI\obj\Debug\PrintConsoleGUI.pdb
+E:\Users\Gabel\Documents\Visual Studio 2015\Projects\PrintConsoleGUI\PrintConsoleGUI\obj\Debug\PrintConsoleGUI.Printer.resources
